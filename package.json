@@ -1,5 +1,5 @@
 {
-  "name": "@neonmachine-shrapnel/ethers.js",
+  "name": "@neonmachine-shrapnel/ethersjs",
   "version": "5.7.1",
   "common": {
     "ethereum": "donations.ethers.eth",
